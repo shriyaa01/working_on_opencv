@@ -22,7 +22,7 @@ To start working with this repository, you'll need to have OpenCV installed on y
 Once OpenCV is installed, you can clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/working-with-opencv.git
+git clone https://github.com/shriyaa01/working_on_opencv.git
 ```
 
 ## Reading Images
